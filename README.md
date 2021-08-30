@@ -1,13 +1,14 @@
 #  recreating-spotify
+Course Project - Complete Web Development 2021 - 20 Courses + 20 Projects | @Udemy.
 
 <p align="center">
-  <br/>
+  <br/> <br/>
 <img src="https://i.ibb.co/12TjXQ1/computador.jpg" width="700"/>
-  <br/>
+  <br/> <br/>
 </p>
 
 
-  Course Project - Complete Web Development 2021 - 20 Courses + 20 Projects | @Udemy.
+  
   
   Projeto feito no curso Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos, tratasse da recreação do site Spotify.
   
