@@ -1,7 +1,9 @@
 #  recreating-spotify
 
 <p align="center">
+  <br/>
 <img src="https://i.ibb.co/12TjXQ1/computador.jpg" width="700"/>
+  <br/>
 </p>
 
 
