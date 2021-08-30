@@ -7,8 +7,6 @@ Course Project - Complete Web Development 2021 - 20 Courses + 20 Projects | @Ude
   <br/> <br/>
 </p>
 
-
-  
   
   Projeto feito no curso Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos, tratasse da recreação do site Spotify.
   
